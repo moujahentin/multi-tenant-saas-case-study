@@ -2,6 +2,7 @@
 
 ## High-Level Design
 
+```text
 User
  ├── Dashboard Application
  │   └── Backend API
@@ -10,6 +11,7 @@ User
  └── Public Tenant Website
      ├── Tenant Resolution
      └── CMS / Content API
+```
 
 ## Components
 

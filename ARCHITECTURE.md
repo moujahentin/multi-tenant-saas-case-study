@@ -2,7 +2,7 @@
 
 ## High-Level Design
 
-```text
+```
 User
  ├── Dashboard Application
  │   └── Backend API

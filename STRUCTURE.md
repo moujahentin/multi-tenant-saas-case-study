@@ -7,3 +7,4 @@ platform/
 ├── cms/
 ├── scripts/
 └── docker-compose.yml
+'''

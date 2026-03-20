@@ -1,5 +1,6 @@
 # Example Structure
-'''text
+
+```text
 platform/
 ├── backend/
 ├── frontend-dashboard/
@@ -7,4 +8,4 @@ platform/
 ├── cms/
 ├── scripts/
 └── docker-compose.yml
-'''
+```

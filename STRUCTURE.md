@@ -1,5 +1,5 @@
 # Example Structure
-
+'''text
 platform/
 ├── backend/
 ├── frontend-dashboard/

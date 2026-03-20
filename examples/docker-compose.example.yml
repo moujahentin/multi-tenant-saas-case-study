@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  api:
+    build: ./backend
+    ports:
+      - "8000:8000"
+
+  dashboard:
+    build: ./frontend-dashboard
+    ports:
+      - "3000:3000"
+
+  site:
+    build: ./frontend-site
+    ports:
+      - "3001:3000"
+
+  cms:
+    image: strapi/strapi
